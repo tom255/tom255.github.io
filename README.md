@@ -1,4 +1,5 @@
-# javascript-winwheel
+# Teaching methods wheel
+https://tom255.github.io/examples/basic_code_wheel/index.html
 Create spinning prize wheels on HTML canvas with Winwheel.js
 
 ## Description
